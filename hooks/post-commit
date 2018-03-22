@@ -1,0 +1,2 @@
+#!/bin/sh
+curl http://slc11apl.us.oracle.com:8080/git/notifyCommit?url=https://github.com/gyanshankar/testrepo.git
